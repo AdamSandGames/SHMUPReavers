@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs/ACCWork/Programming Work/C# Monogame/SHMUP Project/Content/font1.spritefont</SourceFile>
+  <SourceTime>2018-12-08T11:35:46-06:00</SourceTime>
+  <DestFile>D:/Docs/ACCWork/Programming Work/C# Monogame/SHMUP Project/Content/bin/Windows/Content/font1.xnb</DestFile>
+  <DestTime>2020-11-05T15:32:01.4232919-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>LocalizedFontProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

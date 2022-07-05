@@ -1,0 +1,50 @@
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\BigFont.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\bittenheadSprite64.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\BlackHole128.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\bullet1.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\font1.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\Gun+Silencer.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\gunnerplaceholder64.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\headSprite64.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\RainyDevil.wma
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\RainyDevil.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\reavermouse.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\scrapplaceholder16.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\starMapCustom.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\thisFont.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\whiteBlankSquare32.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Content\zombieheadSprite64.xnb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.exe
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.deps.json
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.runtimeconfig.json
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.runtimeconfig.dev.json
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SHMUP Project.pdb
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\SharpDX.XInput.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\bin\Release\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.csprojAssemblyReference.cache
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.AssemblyInfoInputs.cache
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.AssemblyInfo.cs
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.csproj.CopyComplete
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.dll
+D:\Docs\ACCWork\Programming Work\C# Monogame\SHMUP Project\obj\Release\netcoreapp3.1\SHMUP Project.pdb

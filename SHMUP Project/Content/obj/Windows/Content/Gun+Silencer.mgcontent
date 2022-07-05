@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/Gun+Silencer.wav</SourceFile>
+  <SourceTime>2020-12-10T14:38:22.7829492-06:00</SourceTime>
+  <DestFile>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/bin/Windows/Content/Gun+Silencer.xnb</DestFile>
+  <DestTime>2021-02-03T18:21:48.2739638-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

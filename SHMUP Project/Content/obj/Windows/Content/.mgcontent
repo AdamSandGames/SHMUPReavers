@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/20. Rainy Devil.mp3</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/BigFont.spritefont</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/BlackHole128.png</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/bullet1.bmp</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/Gun+Silencer.wav</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/gunnerplaceholder64.bmp</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/reavermouse.bmp</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/scrapplaceholder16.bmp</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/starMapCustom.bmp</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/thisFont.spritefont</File>
+    <File>D:/Docs/ACCWork/2020 Fall/Programming Work/C# Monogame/SHMUP Project/Content/whiteBlankSquare32.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>RainyDevil.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
